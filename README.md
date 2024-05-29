@@ -1,10 +1,10 @@
 # NHLBI BDC Metrics Dashboard
 This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of the Dashboard, built in Tableau Public, can be found here: https://public.tableau.com/app/profile/gireesh.subramaniam/viz/PlatformMetricsDashboard/ExecutiveMetricsDashboard
 
-[Executive Metrics Dashboard.pdf](https://github.com/gireeshsubrama/bdcmetricsdashboard/files/15486675/Executive.Metrics.Dashboard.pdf)
+<img width="682" alt="Executive Metrics Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/a4f832f9-a7e5-42b7-a05e-1b6c21ab49de">
 
-[Search Metrics Dashboard.pdf](https://github.com/gireeshsubrama/bdcmetricsdashboard/files/15486680/Search.Metrics.Dashboard.pdf)
+<img width="679" alt="Search Metrics Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/49518a57-9e0f-42ab-aa7e-5f864e8be9df">
 
-[Analysis Metrics Dashboard.pdf](https://github.com/gireeshsubrama/bdcmetricsdashboard/files/15486685/Analysis.Metrics.Dashboard.pdf)
+<img width="684" alt="Analysis Metrics Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/d3508050-4de5-4b0f-ba30-4c4576e85c43">
 
-[Data Ingest Dashboard.pdf](https://github.com/gireeshsubrama/bdcmetricsdashboard/files/15486687/Data.Ingest.Dashboard.pdf)
+<img width="681" alt="Data Ingest Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/a3a82397-94a5-4238-89b2-9ce1b59d13f4">
