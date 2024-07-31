@@ -26,6 +26,10 @@ You can explore your data here
 
 * apply for access via <email>
 
+# Synthetic data
+
+Describe the tools you've built to create synthetic data you used in your demo Dashboards
+
 # Examples
 <img width="682" alt="Executive Metrics Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/a4f832f9-a7e5-42b7-a05e-1b6c21ab49de">
 
