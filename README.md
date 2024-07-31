@@ -17,6 +17,9 @@ use the templates to generate your data
 
 * email <tbd> your AWS creadential ID to get access to a bucket
 * put your files in the following folder structure
+* bucket is 'nih-nhlbi-bdc-metrics-dashboard'
+* each platform has their own folder
+* give guidance on how to structure the files ... start with just a single file per platform, regenerated each month (and old file overwritten)
 
 ## Step 4 - Explore data
 
