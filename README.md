@@ -5,9 +5,10 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 
 ## Step 1 - find your template
 
-We have templates for either search or workspace environments
+We have templates for either search or workspace environments:
 
-* <file path>
+* Search Platforms: <https://github.com/gireeshsubrama/bdcmetricsdashboard/blob/main/platformdata/searchplatforms/Search_Platform_Template.csv>
+* Analysis Platforms: <https://github.com/gireeshsubrama/bdcmetricsdashboard/blob/main/platformdata/analysisplatforms/Analysis_Platform_Template.csv>
 
 ## Step 2 - generate your data as TSV
 
