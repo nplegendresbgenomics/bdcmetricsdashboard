@@ -25,11 +25,7 @@ Use the templates to generate your data to place in the BDC Metrics AWS Bucket
 
 ## Step 4 - Explore data
 
-Every night at 2am eastern the PowerBI dashbaord is updated
-
-You can explore your data here
-
-* apply for access via <email>
+* The Power BI Dashboard will be available in the GRP-NHLBI-ITAC Power BI Workspace which is managed by NHLBI
 
 # Synthetic data
 
