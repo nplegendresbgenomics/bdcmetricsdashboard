@@ -16,7 +16,7 @@ Use the templates to generate your data to place in the BDC Metrics AWS Bucket
 
 ## Step 3 - Get access to the BDC metrics bucket
 
-* email Sreeni Gadila <sreeni.gadila@nih.gov> and Patrick Burasa <patrick.burasa@nih.gov> your AWS creadential ID to get access to the bucket
+* email Sreeni Gadila <sreeni.gadila@nih.gov> and Patrick Burasa <patrick.burasa@nih.gov> your AWS credential ID to get access to the bucket
 * Please CC Noble Dzakpasu <noble.dzakpasu@nih.gov> as well for NHLBI approval 
 * Once given access, please upload metrics CSV files into the folder for your given platform
 * bucket is 'nih-nhlbi-bdc-metrics-dashboard': <https://us-east-1.console.aws.amazon.com/s3/buckets/nih-nhlbi-bdc-metrics-dashboard?region=us-east-1&bucketType=general&tab=objects>
