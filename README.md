@@ -16,20 +16,16 @@ Use the templates to generate your data to place in the BDC Metrics AWS Bucket
 
 ## Step 3 - Get access to the BDC metrics bucket
 
-* email Sreeni Gadila <sreeni.gadila@nih.gov> and Patrick Burasa <patrick.burasa@nih.gov> your AWS credential ID to get access to the bucket
+* email Gireesh Subramaniam <gireesh.subramaniam@nih.gov> your AWS credential ID to get access to the bucket
 * Please CC Noble Dzakpasu <noble.dzakpasu@nih.gov> as well for NHLBI approval 
 * Once given access, please upload metrics CSV files into the folder for your given platform
 * bucket is 'nih-nhlbi-bdc-metrics-dashboard': <https://us-east-1.console.aws.amazon.com/s3/buckets/nih-nhlbi-bdc-metrics-dashboard?region=us-east-1&bucketType=general&tab=objects>
-* Filepath is Metrics_Format/<Platform_Name>
-* Each folder should contain one CSV file, regenerated and overwritten each month.
+* Filepath is Metrics_Upload/<Platform_Name>/<Year>
+* Each folder should contain one CSV file, regenerated and overwritten with each refresh.
 
 ## Step 4 - Explore data
 
-* The Power BI Dashboard will be available in the GRP-NHLBI-ITAC Power BI Workspace which is managed by NHLBI
-
-# Synthetic data
-
-Describe the tools you've built to create synthetic data you used in your demo Dashboards
+* The Power BI Dashboard will be available in the GRP-NHLBI-ITAC Power BI Workspace which is managed by NHLBI.
 
 # Examples
 <img width="682" alt="Executive Metrics Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/a4f832f9-a7e5-42b7-a05e-1b6c21ab49de">
