@@ -40,11 +40,11 @@ Use the templates to generate your data to place in the BDC Metrics AWS Bucket
 * PIC-SURE: The total number of searches (A text string typed into the search bar and searched) and queries (Using the database filter tools to find a specific set of data)
 * Gen3: The number of Explorer Filters used on Gen3’s Exploration page.
 * Seven Bridges: The total of:
-1) The number of times the “Explore Selected” button has been clicked on the Data Browser.
-2) The number of filters added in Faceted Search.
-3) The number of times “Explore in Data Browser” has been clicked in the Data Overview page.
-4) The number of searches performed in the Study Variable Explorer.
-5) The number of times “Query dataset” has been clicked in the Annotation Explorer.
+  1) The number of times the “Explore Selected” button has been clicked on the Data Browser.
+  2) The number of filters added in Faceted Search.
+  3) The number of times “Explore in Data Browser” has been clicked in the Data Overview page.
+  4) The number of searches performed in the Study Variable Explorer.
+  5) The number of times “Query dataset” has been clicked in the Annotation Explorer.
 
 ### Exports: 
 * PIC-SURE: The number of times a cohort has been Exported to Seven Bridges, Exported to Terra, or downloaded as either a CSV or PFB
