@@ -5,10 +5,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 
 ## Step 1 - Find your template
 
-We have templates for either search or workspace environments:
-
-* Search Platforms: <https://github.com/gireeshsubrama/bdcmetricsdashboard/blob/main/platformdata/searchplatforms/Search_Platform_Template.csv>
-* Analysis Platforms: <https://github.com/gireeshsubrama/bdcmetricsdashboard/blob/main/platformdata/analysisplatforms/Analysis_Platform_Template.csv>
+* The Metrics Template, as well as the Metrics Field Definitions can be found here: [Metrics_Template](https://github.com/gireeshsubrama/bdcmetricsdashboard/tree/main/platformdata/metrics_template)
 
 ## Step 2 - Generate your data as CSV
 
@@ -21,7 +18,7 @@ We have templates for either search or workspace environments:
 * Email Gireesh Subramaniam <gireesh.subramaniam@nih.gov> your Azure credential ID to get access to the bucket
 * Please CC Noble Dzakpasu <noble.dzakpasu@nih.gov> as well for NHLBI approval 
 * Once given access, please upload metrics CSV files into the folder for your given platform
-* bucket is 'nih-nhlbi-bdc-metrics-dashboard': <https://us-east-1.console.aws.amazon.com/s3/buckets/nih-nhlbi-bdc-metrics-dashboard?region=us-east-1&bucketType=general&tab=objects>
+* bucket is 'nih-nhlbi-bdc-metrics-dashboard': 
 * Filepath is Metrics_Upload/<Platform_Name>/<Year>
 * Each folder should contain one CSV file, regenerated and overwritten with each refresh.
 
