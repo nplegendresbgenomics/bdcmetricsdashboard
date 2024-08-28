@@ -12,11 +12,13 @@ We have templates for either search or workspace environments:
 
 ## Step 2 - Generate your data as CSV
 
-Use the templates to generate your data to place in the BDC Metrics AWS Bucket
+* Files should be named using the naming convention "<Platform>_Metrics_Dashboard_<Year>"
+* Files for each calendar year will be concatenated on each update.
+* Use the templates to generate your data to place in the BDC Metrics Azure Bucket
 
 ## Step 3 - Get access to the BDC metrics bucket
 
-* Email Gireesh Subramaniam <gireesh.subramaniam@nih.gov> your AWS credential ID to get access to the bucket
+* Email Gireesh Subramaniam <gireesh.subramaniam@nih.gov> your Azure credential ID to get access to the bucket
 * Please CC Noble Dzakpasu <noble.dzakpasu@nih.gov> as well for NHLBI approval 
 * Once given access, please upload metrics CSV files into the folder for your given platform
 * bucket is 'nih-nhlbi-bdc-metrics-dashboard': <https://us-east-1.console.aws.amazon.com/s3/buckets/nih-nhlbi-bdc-metrics-dashboard?region=us-east-1&bucketType=general&tab=objects>
