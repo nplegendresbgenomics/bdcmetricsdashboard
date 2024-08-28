@@ -10,7 +10,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 
 ## Step 2 - Generate your data as CSV
 
-* Files should be named using the naming convention "<Platform>_Metrics_Dashboard_<Year>"
+* Files should be named using the naming convention "Platform_Metrics_Dashboard_Year"
 * Files for each calendar year will be concatenated on each update.
 * Use the templates to generate your data to place in the BDC Metrics Azure Bucket
 
