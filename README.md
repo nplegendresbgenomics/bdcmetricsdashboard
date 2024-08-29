@@ -3,7 +3,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 
 # Developer Guide
 
-## Step 1 - Find the CSV template
+## Step 1 - Review the CSV template and Metrics Definitions
 
 * The Metrics Template, as well as the Metrics Field Definitions can be found here: [Metrics_Template](https://github.com/gireeshsubrama/bdcmetricsdashboard/tree/main/platformdata/metrics_template)
 * Metrics Field Definitions can also be found below in the Developer Guide
