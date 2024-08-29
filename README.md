@@ -9,7 +9,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Metrics Field Definitions can also be found below in the Developer Guide
 * Please provide feedback on the CSV template as well as the Metrics Definitions in the form of a pull request
 
-## Step 2 - Generate your data as CSV
+## Step 2 - Generate data as CSV
 
 * Files should be named using the naming convention "Platform_Metrics_Dashboard_Year"
 * Files for each calendar year will be concatenated on each refresh.
