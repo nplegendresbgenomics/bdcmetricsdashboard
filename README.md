@@ -26,6 +26,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 ## Step 4 - Explore data
 
 * The Power BI Dashboard will be available in the GRP-NHLBI-ITAC Power BI Workspace which is managed by NHLBI.
+* Please email Gireesh <gireesh.subramaniam@nih.gov> to gain access.
 
 ## Metric Field Definitions
 
