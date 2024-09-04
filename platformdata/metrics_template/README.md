@@ -10,6 +10,9 @@
 ## Visits:
 * Dug: Total visits to [Dug](https://search.biodatacatalyst.renci.org/)
 * PIC-SURE: Total Visits to [Open PIC-SURE](https://openpicsure.biodatacatalyst.nhlbi.nih.gov/picsureui/)
+* Gen3: N/A
+* Terra: N/A
+* Seven Bridges: N/A
 
 ## Search Events:
 * Dug: Typing a text string in the search bar and hitting Search
