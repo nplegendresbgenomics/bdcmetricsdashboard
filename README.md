@@ -37,6 +37,13 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Terra: Total Logins to Terra via Google or Microsoft
 * Seven Bridges: Total logins to Seven Bridges via eRA Commons or BDC Developer Login
 
+### Visits:
+* Dug: Total visits to [Dug](https://search.biodatacatalyst.renci.org/)
+* PIC-SURE: Total Visits to [Open PIC-SURE](https://openpicsure.biodatacatalyst.nhlbi.nih.gov/picsureui/)
+* Gen3: N/A
+* Terra: N/A
+* Seven Bridges: N/A
+
 ### Search Events:
 * Dug: Typing a text string in the search bar and hitting Search
 * PIC-SURE: The total number of searches (A text string typed into the search bar and searched) and queries (Using the database filter tools to find a specific set of data)
