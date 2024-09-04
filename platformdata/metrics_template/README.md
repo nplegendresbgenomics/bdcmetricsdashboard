@@ -7,6 +7,10 @@
 * Terra: Total Logins to Terra via Google or Microsoft
 * Seven Bridges: Total logins to Seven Bridges via eRA Commons or BDC Developer Login
 
+## Visits:
+* Dug: Total visits to [Dug](https://search.biodatacatalyst.renci.org/)
+* PIC-SURE: Total Visits to [Open PIC-SURE](https://openpicsure.biodatacatalyst.nhlbi.nih.gov/picsureui/)
+
 ## Search Events:
 * Dug: Typing a text string in the search bar and hitting Search
 * PIC-SURE: The total number of searches (A text string typed into the search bar and searched) and queries (Using the database filter tools to find a specific set of data)
