@@ -51,10 +51,13 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Terra: N/A
 * Seven Bridges: The total of:
   1) The number of times the “Explore Selected” button has been clicked on the Data Browser.
-  2) The number of filters added in Faceted Search.
+  ~~2) The number of filters added in Faceted Search.~~
+    - This would be a heavy lift and not informative
   3) The number of times “Explore in Data Browser” has been clicked in the Data Overview page.
-  4) The number of searches performed in the Study Variable Explorer.
-  5) The number of times “Query dataset” has been clicked in the Annotation Explorer.
+  4) ~~The number of searches performed in the Study Variable Explorer.~~
+    - We could do the number of times SVE is clicked
+  5) ~~The number of times “Query dataset” has been clicked in the Annotation Explorer.~~
+      - We could do the number of times AE is clicked. 
 
 ### Exports: 
 * Dug: N/A
@@ -69,6 +72,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Gen3: N/A
 * Terra: The number of times data has been imported into the platform by a user into a Terra Workspace (BYOD Data).
 * Seven Bridges: The number of times data has been imported into the platform by a user into a Seven Bridges Project (BYOD Data).
+*   We are still looking into the best way to quantify the amount of data that's been brought to Seven Bridges via BYOD. 
 
 ### Workflows Run:
 * Dug: N/A
